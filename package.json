@@ -1,0 +1,11 @@
+{ "name" : "node-scrypt-js"
+, "description" : "Pure javascript implementation of scrypt."
+, "version": "0.0.1"
+, "main": "scrypt.js"
+, "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/cheongwy/node-scrypt-js.git"
+  }
+, "dependencies": {
+}
+}
